@@ -1,0 +1,9 @@
+{
+  "name": "turbo-winner",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/soumik-mukherjee/turbo-winner",
+  "author": "Soumik Mukherjee <60540758+soumik-mukherjee@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
